@@ -85,8 +85,8 @@
 | INSERT_UPDATE | 插入和更新时填充字段 |
 
 ## [@Version](https://github.com/baomidou/mybatis-plus/blob/3.0/mybatis-plus-annotation/src/main/java/com/baomidou/mybatisplus/annotation/Version.java)
-- 描述：乐观锁注解、标记 `@Verison` 在字段上
 
+- 描述：乐观锁注解、标记 `@Version` 在字段上
 
 ## [@EnumValue](https://github.com/baomidou/mybatis-plus/blob/3.0/mybatis-plus-annotation/src/main/java/com/baomidou/mybatisplus/annotation/EnumValue.java)
 - 描述：通枚举类注解(注解在枚举字段上)
